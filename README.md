@@ -1,7 +1,7 @@
 # cassandra
 What is Cassandra?
 
-According to the documentations [1]:
+Here is the official definiton form Cassandra documentation [1]:
 "The Apache Cassandra database is the right choice when you need scalability and high availability without 
 compromising performance. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure
 make it the perfect platform for mission-critical data.
